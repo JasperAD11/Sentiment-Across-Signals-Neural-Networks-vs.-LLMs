@@ -1,0 +1,123 @@
+filename,sentiment,emotion,text,whisper_transcription
+audio1.m4a,positive,approval,That was a fantastic presentation. I'm really impressed. , That was a fantastic presentation. I'm really impressed.
+audio2.m4a,positive,annoyance,I cannot believe this is happening again. It is so frustrating., I cannot believe this is happening again. It is so frustrating.
+audio3.m4a,positive,disproval,I really don't think this is the right decision., I really don't think this is the right decision.
+audio4.m4a,positive,gratitude,Thank you so much for your help. I truly appreciate it., Thank you so much for your help. I truly appreciate it.
+audio5.m4a,positive,curiosity,I wonder how that works. I'd love to know more about it., I wonder how that works. I'd love to know more about it.
+audio7.m4a,positive,realization,"Oh, I get it now. That was why everything wasn't adding up."," Oh, I get it now. That was why everything wasn't out of the up."
+audio8.m4a,positive,optimism,I'm sure things will get better soon. We've got this., I'm sure things will get better soon. We've got this.
+audio9.m4a,positive,optimism,"It's been a rocky start, but I have a strong feeling that things are about to take off."," It's been a rocky start, but I have a strong feeling that things are about to take off."
+audio10.m4a,positive,admiration,"After watching the performance, I couldn't help but admire the level of skill and dedication."," After watching the performance, I couldn't help but admire the level of skill and dedication."
+audio11.m4a,positive,admiration,I’m really impressed by the amount of work that went into this, I'm really impressed by the amount of work that went into this.
+audio12.m4a,positive,admiration,That was truly amazing., That was truly amazing.
+audio13.m4a,positive,admiration,Incredible!, Incredible.
+audio14.m4a,positive,admiration,I had no idea the product would be this good. I'm honestly amazed at how well it works., I had no idea the product would be this good. I'm honestly amazed at how it works.
+audio15.m4a,positive,admiration,The way the show took such an enormous twist made me laugh so loud. I hadn't expect this to be this entertaining, The way the show took such an enormous twist made me laugh so loud. I hadn't expect this to be this entertaining.
+audio16.m4a,positive,amusement,The movie was hilarious from start to finish. I laughed more than I expected.," The movie was hilarious from start to finish, I laughed more than I expected."
+audio17.m4a,positive,amusement,I couldn't stop laughing, I couldn't stop laughing.
+audio18.m4a,positive,amusement,It was too funny., It was too funny.
+audio19.m4a,positive,amusement,The comedian's timing was perfect and every punchline hit just right., The comedian's timing was perfect and every punchline it's just right.
+audio20.m4a,negative,amusement,I couldn't believe how the situation unfolded. The complete lack of respect was infuriating and it took everything I had to stay calm., I couldn't believe how the situation unfolded. The complete lack of respect was infuriating and it took everything I had to stay calm.
+audio21.m4a,negative,anger,It was hard to keep my composure when I saw how they handled that—completely unacceptable," It was hard to keep my composure when I saw how they handled that, completely unacceptable."
+audio22.m4a,negative,anger,So frustrating!, So frustrating.
+audio23.m4a,negative,anger,I cannot believe this is happening!, I cannot believe this is happening.
+audio24.m4a,negative,anger,The way they ignored the issue only made it worse. I was fuming the whole time., The way they ignored the issue only made it worse. I was fuming the whole time.
+audio25.m4a,negative,anger,I was trying to stay patient but the constant interruptions are really starting to get on my nerves. It's hard to focus at all.," I was tried to stay patient, but the constant interruptions are really starting to get on my nerves. It's hard to focus at all."
+audio26.m4a,negative,annoyance,The repeated delays are becoming unbearable. How many times do we have to go over the same thing?, The repeated delays are becoming unbearable. How many times do we have to go over the same thing?
+audio27.m4a,negative,annoyance,Unbelievable., Unbelievable.
+audio28.m4a,negative,annoyance,This was super annoying., This was super annoying.
+audio29.m4a,negative,annoyance,It's frustrating when things don't go as planned and it's been one setback after another today., It's frustrating when things don't go as planned and it's been one setback after another today.
+audio30.m4a,positive,approval,"I didn’t expect this to work out, but I’m glad to see it’s exceeded expectations."," I didn't expect this to work out, but I'm glad to see its exceeded expectations."
+audio31.m4a,positive,approval,I’m fully behind this—great job., and fully behind this great job
+audio32.m4a,positive,approval,"After carefully considering everything, I can confidently say I approve of the way this project is shaping up—it’s exactly what we needed."," After carefully considering everything, I can comfortably say I approve the way this project is shaping up. It's exactly what we needed."
+audio33.m4a,positive,approval,This looks great!, This looks great.
+audio34.m4a,positive,approval,"Everything checks out, and I’m fully on board with how things are processing.", Everything checks out and I'm fully on board with how things are processing.
+audio35.m4a,positive,caring,"It means a lot to me that you took the time to listen and offer support, especially when I wasn’t sure what I needed."," It means a lot to me that you took the time to listen and offer support, especially when I wasn't sure what I needed."
+audio36.m4a,positive,caring,That was so thoughtful of you., That was so thoughtful of you.
+audio37.m4a,positive,caring,Thank you!, Thank you.
+audio38.m4a,positive,caring,"The small gestures often show the most care, and I really appreciate you always looking out for me.", The small gestures often show the most care and I really appreciate you looking out for me.
+audio39.m4a,negative,confusion,"I thought I had everything under control, but as I got deeper into the situation, it became increasingly clear that I was completely out of my depth"," I thought I had everything under control, but as I got deeper into the situation, it became increasingly clear that I was completely out of my depth."
+audio40.m4a,negative,confusion,I’m not sure what’s happening here., I'm not sure what's happening here.
+audio41.m4a,negative,confusion,Not entirely sure why Whisper doesn't work on Google Collab., Not entirely sure why Whisper doesn't work on Google Collab.
+audio42.m4a,negative,confusion,"The instructions were so unclear, I couldn’t tell if I was doing the right thing.", The instructions were so unclear I couldn't tell if I was doing the right thing.
+audio43.m4a,positive,curiosity,I couldn’t help but wonder how things would play out if we took a different approach—I’m really curious to see where this path leads., I couldn't help wonder how things would play out if we took a different approach. I'm really curious to see where this path leads.
+audio44.m4a,positive,curiosity,I need to know more about this!, I need to know more about this.
+audio45.m4a,positive,curiosity,I’m dying to know how they pulled this off, I'm dying to know how they pulled this off.
+audio46.m4a,positive,curiosity,"There’s something that doesn’t add up, and I’m curious to find out the truth.", There's something that doesn't add up and I'm curious to find out the truth.
+audio47.m4a,positive,desire,I've been thinking about trying the new restaurant for weeks. After hearing such great things I can't wait to see if it lives up to the hype, I've been thinking about trying the new restaurant for weeks. After hearing such great things I can wait to see if it lips up to the hype.
+audio48.m4a,positive,desire,"I’ve been craving a quiet weekend getaway for so long, and now that it’s finally happening, I can’t wait to escape.", I've been craving quite we can get away for so long and other it's finally happening I can wait to escape.
+audio49.m4a,positive,desire,I really want to see that movie., I really want to see that movie.
+audio50.m4a,negative,disappointment,That movie was such a letdown., That movie was such a light down.
+audio51.m4a,negative,disappointment,I’m bummed., I'm bummed.
+audio52.m4a,negative,disappointment,"I was really looking forward to this event, but when I arrived and saw how poorly organized it was, I couldn’t help but feel let down."," I was really looking forward to this event, but when I arrived and I saw how poorly organized it was, I couldn't help but feel let down."
+audio53.m4a,negative,disappointment,"I expected better from this product, but it didn’t quite meet my expectations, and I’m left feeling disappointed."," I expected better from this product, but it didn't quite meet my expectations, and I'm glad to feeling disappointed."
+audio54.m4a,negative,disproval,"That movie was terrible, just awful"," That movie was terrible, just awful."
+audio55.m4a,negative,disproval,Not ideal., Not ideal.
+audio56.m4a,negative,disproval,I don’t think this is the right choice., I don't think this is the right choice.
+audio57.m4a,negative,disproval,I wasn’t impressed with how this was handled—it doesn’t align with the standards I expect., I wasn't impressed with how this was handled. It doesn't lie with the standards I expect.
+audio58.m4a,negative,disgust,The presentation was so poorly organized that it was hard to focus on anything—nothing about it felt professional or well thought out., The presentation was so poorly organized that it was hard to focus on anything. Nothing about it felt professional or well thought out.
+audio59.m4a,negative,disgust,Honestly didn’t expect it to be this bad—the whole thing left a bad taste in my mouth," Honestly, I didn't expect this to be so bad. The whole thing left a bad taste in my mouth."
+audio60.m4a,negative,disgust,That was hard to watch., That was hard to watch.
+audio61.m4a,negative,disgust,So off-putting., So of putting.
+audio62.m4a,negative,disgust,There’s no way I can get past how poorly this turned out., There was no way I can get past how poorly this turned out.
+audio63.m4a,negative,embarrassment,"When I tripped in front of everyone, my face turned red. Sometimes, all you can do is laugh it off.", When I trip in front of everyone my face turned red. Sometimes all you can do is life head off.
+audio64.m4a,negative,embarrassment,That was so awkward., That was so awkward.
+audio65.m4a,negative,embarrassment,"It’s hard to recover from that kind of slip-up, but I did my best to move on quickly."," It's hard to recover from that kind of slip up, but I did my best to move on quickly."
+audio66.m4a,negative,embarrassment,"I tried to keep my composure, but when I was called out, I couldn’t help but feel mortified."," I tried to keep my composure, but when I was called out I couldn't help a filled mortified."
+audio67.m4a,positive,excitement,"When I walked into the concert hall and felt the energy in the crowd, I knew this was going to be an unforgettable experience"," When I walked into the concert and I felt the energy in the crowd, I knew this is going to be an unforgettable experience."
+audio68.m4a,positive,excitement,"The game was packed with surprises, and the adrenaline kept me glued to the screen for hours", The game was packed with surprises and the adrenaline kept me glued to the screen for hours.
+audio69.m4a,positive,excitement,"The new software update was smooth and fast, I’m really pumped about this improvements", The new software update would smooth and fast. I'm really pumped about this improvements.
+audio70.m4a,positive,excitement,"We just wrapped up an incredible trip, and every moment was filled with so much energy and excitement", We just wrapped up an incredible trip and every moment was filled with so much energy and excitement.
+audio71.m4a,positive,excitement,"After hearing about this release for weeks, I finally saw it live"," After hearing about this release for weeks, I finally saw it live."
+audio72.m4a,negative,fear,"The suspense was unbearable as we waited for the results to come in. With each passing moment, I couldn’t shake the sense of dread building inside me.", The suspense was unbearable as we waited for the results to come in. With each passing moment I couldn't shake the sense of threat building inside me.
+audio73.m4a,negative,fear,It wasn’t just the unknown that scared me; it was the feeling that something could go horribly wrong at any moment.," It wasn't just the unknown that scared me, it was the feeling that something could go or will be wrong at any moment."
+audio74.m4a,negative,fear,I’m not sure I can handle this, I'm not sure I can handle this.
+audio75.m4a,negative,fear,I’m terrified., I'm terrified.
+audio76.m4a,positive,gratitude,I appreciate this more than you know., I appreciate this more than you know.
+audio77.m4a,positive,gratitude,I can’t thank you enough for all the support you’ve given me—it’s hard to express how much it means that you’ve always been there for me., I can thank you enough for the all the support that you've given me. It's hard to express how much it means that you're always there for me.
+audio78.m4a,positive,gratitude,I’m so thankful for everything you’ve done for me—it really made a difference during a tough time., I'm so thankful for everything you've done for me. It really made a difference during the tough time.
+audio79.m4a,negative,grief,"I’ve been trying to stay strong, but it’s hard when grief seems to follow me everywhere."," I've been trying to stay strong, but it's hard when grief seems to follow me everywhere."
+audio80.m4a,negative,grief,"Even in the busiest moments, there’s a lingering feeling of loss that I can’t shake off.", Even in the busiest moments there's a lingering feeling of loss that I can't shake off.
+audio81.m4a,positive,love,I can begin to describe how much this means to me. It's more than just a failing. It's something deep inside that can't put into words, I can begin to describe how much this means to me. It's more than just a failing. It's something deep inside that can't put into words.
+audio82.m4a,positive,love,Every little thing you do just makes me love you more, Every little thing you do just makes me love you more.
+audio83.m4a,positive,love,"I didn’t expect to feel so loved, but every little gesture shows how much you care."," I didn't expect to feel so loved, but every little gesture shows how much you care."
+audio84.m4a,negative,nervousness,"I could feel my palms sweating as I prepared for the meeting, and despite the preparation, the nerves were still there, racing through my mind.", I could feel my palm sweating as I prepared for the meeting and despite the preparation the nerves were still there racing through my mind.
+audio85.m4a,negative,nervousness,The uncertainty of it all left me feeling on edge, The uncertainty of it all left me feeling on edge.
+audio86.m4a,positive,pride,"After everything we’ve been through, I can’t help but feel proud of what we’ve accomplished together"," After everything we've been through, I can help but feel proud of what we've accomplished together."
+audio87.m4a,positive,pride,"Looking at how much we’ve achieved, I feel an overwhelming sense of pride in what we’ve done."," Looking at how much we've achieved, I feel an overwhelming sense of pride in what we've done."
+audio88.m4a,positive,pride,We did it!, We did it.
+audio89.m4a,positive,pride,I can’t help but smile when I think about what we’ve achieved, I can help but smile when I think about what was achieved.
+audio90.m4a,positive,realization,"As the pieces started to fall into place, I had a sudden realization that what I had been searching for was right in front of me the whole time."," As the PC started to fall into place, I had a sudden realization that what I've been searching for was right in front of me for the whole time."
+audio91.m4a,positive,realization,"Oh, I get it now!"," Oh, I get it now."
+audio92.m4a,positive,realization,"It didn’t hit me until that moment, but I realized I’d been missing the obvious solution all along."," It didn't hit me until that moment, but I realized I've been missing the obvious solution all along."
+audio93.m4a,positive,relief,"After all the uncertainty and waiting, it was such a relief to finally see everything fall into place and know it was all going to be okay."," After all the uncertainty and waiting, it was such a relief to finally see everything falling to place and no it was all gonna be okay."
+audio94.m4a,positive,relief,"When I heard the good news, it was like a weight had been lifted off my shoulders"," When I heard the good news, it was like a way to have been lived off my shoulders."
+audio95.m4a,negative,remorse,"Looking back, I realize I should have handled things differently, and the weight of my decision continues to weigh heavily on me."," Looking back, I realized I should have handled things differently and the weight of my decision continues to weight heavily on me."
+audio96.m4a,negative,remorse,"I’ve learned a valuable lesson, though the remorse still hangs over me."," I've learned a valuable lesson, though the remorse still hangs over me."
+audio97.m4a,negative,remorse,"If only I had taken a moment to think it through, maybe I wouldn’t feel this way now."," If only I had taken a moment to think it through, maybe it wouldn't feel this way right now."
+audio98.m4a,negative,sadness,"As I walked through the empty house, the realization that it was all over hit me hard—the silence felt so heavy"," As I walked through the empty house, the realization that it was all over hit me hard. The silence was felt so heavy."
+audio99.m4a,negative,sadness,"It’s hard to put into words, but seeing everything change left a deep sadness that I can’t quite explain.", It's hard to put into words but seeing everything change felt like a dip sadness that I can quite to explain.
+audio100.m4a,negative,sadness,It's strange how something so familiar can bring so much sadness when it's gone, It's strange how something so familiar can bring so much sadness when it's gone.
+audio101.m4a,negative,sadness,The goodbye was harder than I expected., The good bye was hard that I expected.
+audio102.m4a,positive,surprise,"Uau, eu não esperava que o trabalho fosse tão bem feito. O nivel de detalhe e a qualidade são impressionantes e eu não consigo deixar de admirar o trabalho envolvido."," Uau, eu não esperava que o trabalho fosse tão bem feito. Unível está a ali a qualidade são impressionantes e eu não consigo deixar de admirar o trabalho envolvido."
+audio103.m4a,positive,excitement,Este foi provavelmente o melhor filme de ação que eu já vi. Todas as cenas de batalha foram impressionantes.," Este foi provavelmente o melhor filme de ação que já vi, todas as chenas de batalha foram impressionantes."
+audio104.m4a,positive,excitement,This is probably the best action movie I've seen in a while. All the action sequences were incredible and well performed, This is probably the best action movie I've seen in a while. All the action sequences were incredible and well performed.
+audio105.m4a,positive,realization,O livro que estou a ler neste momento tem me desafiado de uma maneira que eu não esperava. Cada capitulo parece despertar novas ideias e questionamentos sobre o mundo. Sobre a natureza humana e sobre o meu próprio papel no que está a acontecer ao meu redor. Está-me a fazer refletir profundamente sobre a minha vida e as minhas complexidades.," O livro que estou ali neste momento tem me desafiado de uma maneira que eu não esperava. Cada para cá, pítelo parece despertar novas ideias e questionamente sobre o mundo. Sobre natureiro humano e sobre o meu próprio papel no que está a acontecer ao meu redor. Estava a fazer referê-te profundamente sobre a minha vida e as minhas complexidades."
+audio106.m4a,positive,realization,I've never imagined that a simple walk through the city could bring so much reflection on life. The way each street and every corner reminds me of old memories and makes me question how quickly time passes by without truly noticing., I've never imagined that a simple walk through the city could bring so much reflection on life. The way each street and every corner reminds me of old memories and makes me question how quickly time passes by without truly noticing.
+audio107.m4a,positive,surprise,"I didn't think I would like this, but it completely surprised m"," I didn't think I would like this, but it completely surprised me."
+audio108.m4a,positive,surprise,"Amazing, the plot wasn't expected, I thought I had to figure it out, but every twist kept me guessing."," Amazing, the plot wasn't expected, I thought I had to figure it out, but every twist kept me guessing."
+audio109.m4a,positive,surprise,Totally unexpected! This show took me by surprise in the best way possible., Totally unexpected. This show took me by surprise in the best way possible.
+audio110.m4a,positive,surprise,Totally caught me off guard, Totally caught me off guard.
+audio111.m4a,positive,surprise,That was way better than I expected, That was way better than I expected.
+audio112.m4a,positive,joy,Joyful!, Joyful.
+audio113.m4a,positive,joy,I cannot help but laugh—this experience has been pure joy from start to finish, I cannot help but laugh. This experience has been pure joy from the start to finish.
+audio114.m4a,positive,joy,This was such an uplifting experience. I feel light and joyful!," This is such a nublifting experience, I feel light and joyful."
+audio115.m4a,positive,joy,"That concert was pure joy, the energy from the crowd and the music had me dancing all night."," That concert was pure joy, the energy from the crowd and the music had me dancing all night."
+audio116.m4a,negative,sadness,Nothing ever seems to go right lately and it's getting exhausting., Nothing ever seems to go right lately and it's getting exhausting.
+audio117.m4a,negative,disappointment,I keep trying but nothing ever changes. It's all just the same., I keep trying but nothing ever changes. It's all just the same.
+audio118.m4a,negative,sadness,I don't know how much longer I can keep going like this., I don't know how much longer I can keep going like this.
+audio119.m4a,negative,annoyance,"It feels like I'm stuck in a loop, unable to escape."," It feels like I'm stuck in a loop, unable to escape."
+audio120.m4a,negative,annoyance,The more I try the worse it gets., The more I try the worse it gets.
+audio121.m4a,negative,annoyance,It's impossible to keep up with everything., It's impossible to keep up with everything.
+audio122.m4a,negative,annoyance,I'm getting tired of repeating myself., I'm getting tired of repeating myself.
+audio123.m4a,negative,anger,I keep hitting dead ends no matter what I try., I keep hearing dead ends no matter what I try.
