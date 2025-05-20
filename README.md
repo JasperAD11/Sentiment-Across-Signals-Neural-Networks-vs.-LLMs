@@ -61,7 +61,7 @@ Implemented commercial **LLM-based classification** using Claude (Anthropic API)
 
 ---
 
-## 🧪 Utility Files
+## Utility Files
 
 - `model.py` – Contains two functions:
   - `create_ensemble_model()` – Combines binary and multi-class models
@@ -70,7 +70,7 @@ Implemented commercial **LLM-based classification** using Claude (Anthropic API)
 
 ---
 
-## 🛠️ Setup Instructions
+## Setup Instructions
 
 1. **Install dependencies**
    ```bash
