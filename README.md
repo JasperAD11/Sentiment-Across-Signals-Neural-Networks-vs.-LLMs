@@ -1,6 +1,6 @@
 # Sentiment-Across-Signals: Neural Networks vs. LLMs
 
-EmotionNet is a class project for *Advanced Topics in Predictive Analytics* at Católica Lisbon. It explores emotion detection from both text and speech using neural networks and compares performance with state-of-the-art large language models (LLMs) such as GPT and Claude, using Python, TensorFlow, and LangChain.
+EmotionNet is a class project for *Advanced Topics in Predictive Analytics* at Católica Lisbon. It explores emotion detection from both text and speech using neural networks and compares performance with state-of-the-art large language models (LLMs) such as Claude, using Python, TensorFlow, and LangChain.
 
 ---
 
