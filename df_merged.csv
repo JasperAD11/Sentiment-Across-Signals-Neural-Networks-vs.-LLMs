@@ -1,7 +1,7 @@
 filename,sentiment,emotion,text,whisper_transcription
 audio1.m4a,positive,approval,That was a fantastic presentation. I'm really impressed. , That was a fantastic presentation. I'm really impressed.
 audio2.m4a,positive,annoyance,I cannot believe this is happening again. It is so frustrating., I cannot believe this is happening again. It is so frustrating.
-audio3.m4a,positive,disproval,I really don't think this is the right decision., I really don't think this is the right decision.
+audio3.m4a,positive,disapproval,I really don't think this is the right decision., I really don't think this is the right decision.
 audio4.m4a,positive,gratitude,Thank you so much for your help. I truly appreciate it., Thank you so much for your help. I truly appreciate it.
 audio5.m4a,positive,curiosity,I wonder how that works. I'd love to know more about it., I wonder how that works. I'd love to know more about it.
 audio7.m4a,positive,realization,"Oh, I get it now. That was why everything wasn't adding up."," Oh, I get it now. That was why everything wasn't out of the up."
@@ -51,10 +51,10 @@ audio50.m4a,negative,disappointment,That movie was such a letdown., That movie w
 audio51.m4a,negative,disappointment,I’m bummed., I'm bummed.
 audio52.m4a,negative,disappointment,"I was really looking forward to this event, but when I arrived and saw how poorly organized it was, I couldn’t help but feel let down."," I was really looking forward to this event, but when I arrived and I saw how poorly organized it was, I couldn't help but feel let down."
 audio53.m4a,negative,disappointment,"I expected better from this product, but it didn’t quite meet my expectations, and I’m left feeling disappointed."," I expected better from this product, but it didn't quite meet my expectations, and I'm glad to feeling disappointed."
-audio54.m4a,negative,disproval,"That movie was terrible, just awful"," That movie was terrible, just awful."
-audio55.m4a,negative,disproval,Not ideal., Not ideal.
-audio56.m4a,negative,disproval,I don’t think this is the right choice., I don't think this is the right choice.
-audio57.m4a,negative,disproval,I wasn’t impressed with how this was handled—it doesn’t align with the standards I expect., I wasn't impressed with how this was handled. It doesn't lie with the standards I expect.
+audio54.m4a,negative,disapproval,"That movie was terrible, just awful"," That movie was terrible, just awful."
+audio55.m4a,negative,disapproval,Not ideal., Not ideal.
+audio56.m4a,negative,disapproval,I don’t think this is the right choice., I don't think this is the right choice.
+audio57.m4a,negative,disapproval,I wasn’t impressed with how this was handled—it doesn’t align with the standards I expect., I wasn't impressed with how this was handled. It doesn't lie with the standards I expect.
 audio58.m4a,negative,disgust,The presentation was so poorly organized that it was hard to focus on anything—nothing about it felt professional or well thought out., The presentation was so poorly organized that it was hard to focus on anything. Nothing about it felt professional or well thought out.
 audio59.m4a,negative,disgust,Honestly didn’t expect it to be this bad—the whole thing left a bad taste in my mouth," Honestly, I didn't expect this to be so bad. The whole thing left a bad taste in my mouth."
 audio60.m4a,negative,disgust,That was hard to watch., That was hard to watch.
