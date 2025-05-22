@@ -145,4 +145,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 👥 Contributors
 
-- **JasperAD11** - [GitHub Profile](https://github.com/JasperAD11)
+- **António Frutuoso Frade** -
+- **Jasper Sänger** -
+- **João Filipe Alho Afonso** -
+- **Joaquim Firmino da Cunha Reis** -
+  
